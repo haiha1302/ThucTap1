@@ -23,12 +23,12 @@ let dataUsers = [
     },
     {
         idUser: 3,
-        tenUser: 'Nguyễn Sỹ Hiển',
-        mailUser: 'hienyeuha1806@gmail.com',
+        tenUser: 'Nguyễn Minh Hiếu',
+        mailUser: 'hieuti2908@gmail.com',
         sdtUser: '0921803361',
         ngayCI: '01/06/2021',
         ngayCO: '02/06/2021',
-        userName: 'syhien123',
+        userName: 'minhhieu298',
         passWord: '345',
         isLogin: false
     }
